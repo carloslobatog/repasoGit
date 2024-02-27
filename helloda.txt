@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola buenos días
+=======
+ESTO ES LA RAMA MAIN Y LA RAMA MASTER FUSIONADAS
+>>>>>>> main
